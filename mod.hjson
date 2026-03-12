@@ -1,0 +1,7 @@
+name: "solar-eclipse"
+displayName: "Solar Eclipse"
+author: AnomalousWyvern
+description: "A large content mod. Development might be slow as I am solo and learning. Enjoy :P"
+version: "0.1"
+minGameVersion: "155.4"
+hidden: false
